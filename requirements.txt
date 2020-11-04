@@ -1,4 +1,4 @@
-econ-ark
+econ-ark==0.10.7
 numpy
 matplotlib
 numpydoc
